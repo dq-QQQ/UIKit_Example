@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "9990A9BB28B489A200C090C2"
-               BuildableName = "MapKit.app"
+               BuildableName = "map.app"
                BlueprintName = "map"
                ReferencedContainer = "container:map.xcodeproj">
             </BuildableReference>
@@ -33,7 +33,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "9990A9D128B489A300C090C2"
-               BuildableName = "MapKitTests.xctest"
+               BuildableName = "mapTests.xctest"
                BlueprintName = "mapTests"
                ReferencedContainer = "container:map.xcodeproj">
             </BuildableReference>
@@ -43,7 +43,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "9990A9DB28B489A300C090C2"
-               BuildableName = "MapKitUITests.xctest"
+               BuildableName = "mapUITests.xctest"
                BlueprintName = "mapUITests"
                ReferencedContainer = "container:map.xcodeproj">
             </BuildableReference>
@@ -65,7 +65,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9990A9BB28B489A200C090C2"
-            BuildableName = "MapKit.app"
+            BuildableName = "map.app"
             BlueprintName = "map"
             ReferencedContainer = "container:map.xcodeproj">
          </BuildableReference>
@@ -82,7 +82,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9990A9BB28B489A200C090C2"
-            BuildableName = "MapKit.app"
+            BuildableName = "map.app"
             BlueprintName = "map"
             ReferencedContainer = "container:map.xcodeproj">
          </BuildableReference>
